@@ -209,6 +209,10 @@ class CONTENT_TYPE:
         "application/vnd.openxmlformats-officedocument.wordprocessingml.docu"
         "ment.main+xml"
     )
+    WML_TEMPLATE_MAIN = (
+        "application/vnd.openxmlformats-officedocument.wordprocessingml.tem"
+        "plate.main+xml"
+    )
     WML_ENDNOTES = (
         "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"
     )
